@@ -1,0 +1,7 @@
+#!/bin/sh
+#$? if previous command run successfully
+echo "Printing Name of Shell Script "$0
+echo "1st Parameter "$1
+echo "2st Parameter "$2
+echo $?
+
